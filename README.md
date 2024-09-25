@@ -1,1 +1,1 @@
-a basic django api
+django unchained
